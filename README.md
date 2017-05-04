@@ -1,2 +1,2 @@
 # hello-world
-new comer
+I want to build an astrographic system with the raspberrypi!
